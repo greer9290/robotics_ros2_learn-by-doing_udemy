@@ -1,0 +1,26 @@
+[0.084s] Invoking command in '/home/greer92/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/greer92/arduinobot_ws/install/arduinobot_py_example:/opt/ros/humble /usr/bin/cmake --build /home/greer92/arduinobot_ws/build/arduinobot_cpp_example -- -j16 -l16
+[0.113s] [35m[1mConsolidate compiler generated dependencies of target simple_publisher[0m
+[0.129s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_publisher.dir/src/simple_publisher.cpp.o[0m
+[2.797s] [100%] [32m[1mLinking CXX executable simple_publisher[0m
+[2.918s] [100%] Built target simple_publisher
+[2.925s] Invoked command in '/home/greer92/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/greer92/arduinobot_ws/install/arduinobot_py_example:/opt/ros/humble /usr/bin/cmake --build /home/greer92/arduinobot_ws/build/arduinobot_cpp_example -- -j16 -l16
+[2.946s] Invoking command in '/home/greer92/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/greer92/arduinobot_ws/install/arduinobot_py_example:/opt/ros/humble /usr/bin/cmake --install /home/greer92/arduinobot_ws/build/arduinobot_cpp_example
+[2.950s] -- Install configuration: ""
+[2.950s] -- Installing: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/lib/arduinobot_cpp_example/simple_publisher
+[2.951s] -- Set runtime path of "/home/greer92/arduinobot_ws/install/arduinobot_cpp_example/lib/arduinobot_cpp_example/simple_publisher" to ""
+[2.951s] -- Installing: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/ament_index/resource_index/package_run_dependencies/arduinobot_cpp_example
+[2.951s] -- Installing: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/ament_index/resource_index/parent_prefix_path/arduinobot_cpp_example
+[2.951s] -- Up-to-date: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/ament_prefix_path.sh
+[2.951s] -- Installing: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/ament_prefix_path.dsv
+[2.951s] -- Up-to-date: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/path.sh
+[2.952s] -- Installing: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/path.dsv
+[2.952s] -- Up-to-date: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.bash
+[2.952s] -- Up-to-date: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.sh
+[2.952s] -- Up-to-date: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.zsh
+[2.952s] -- Installing: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.dsv
+[2.952s] -- Installing: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/package.dsv
+[2.952s] -- Up-to-date: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/ament_index/resource_index/packages/arduinobot_cpp_example
+[2.952s] -- Up-to-date: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/cmake/arduinobot_cpp_exampleConfig.cmake
+[2.952s] -- Up-to-date: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/cmake/arduinobot_cpp_exampleConfig-version.cmake
+[2.952s] -- Installing: /home/greer92/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/package.xml
+[2.953s] Invoked command in '/home/greer92/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/greer92/arduinobot_ws/install/arduinobot_py_example:/opt/ros/humble /usr/bin/cmake --install /home/greer92/arduinobot_ws/build/arduinobot_cpp_example

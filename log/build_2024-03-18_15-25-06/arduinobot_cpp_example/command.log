@@ -1,0 +1,4 @@
+Invoking command in '/home/greer92/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/greer92/arduinobot_ws/build/arduinobot_cpp_example -- -j16 -l16
+Invoked command in '/home/greer92/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/greer92/arduinobot_ws/build/arduinobot_cpp_example -- -j16 -l16
+Invoking command in '/home/greer92/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/greer92/arduinobot_ws/build/arduinobot_cpp_example
+Invoked command in '/home/greer92/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/greer92/arduinobot_ws/build/arduinobot_cpp_example

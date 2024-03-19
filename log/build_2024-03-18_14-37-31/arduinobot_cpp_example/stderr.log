@@ -1,0 +1,8 @@
+[01m[K/home/greer92/arduinobot_ws/src/arduinobot_cpp_example/src/simple_publisher.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/greer92/arduinobot_ws/src/arduinobot_cpp_example/src/simple_publisher.cpp:35:20:[m[K [01;31m[Kerror: [m[Kfound ‘[01m[K:[m[K’ in nested-name-specifier, expected ‘[01m[K::[m[K’
+   35 |     auto node = std[01;31m[K:[m[Kmake_shared<SimplePublisher>();
+      |                    [01;31m[K^[m[K
+      |                    [32m[K::[m[K
+gmake[2]: *** [CMakeFiles/simple_publisher.dir/build.make:76: CMakeFiles/simple_publisher.dir/src/simple_publisher.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/simple_publisher.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2
